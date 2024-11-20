@@ -1,3 +1,7 @@
+โหลดไฟล์ทั้งหมดก่อนนะคับ และ
+โหลด npm install บนคำสั่ง Terminal หลังเปิดไฟล์
+แล้วรันด้วย npm start บนคำสั่ง Terminal
+(ผมเขียนด้วย VsCode คับ )
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
